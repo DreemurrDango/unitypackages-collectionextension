@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.dreemurrstudio.collectionextension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Collection Extension",
   "description": "一个提供常用集合类扩展和自定义数据结构的模块，包含二叉堆（Heap）、双向字典（BiDictionary）和列表扩展方法（如 Shuffle 洗牌算法）等功能。",
   "author": {
